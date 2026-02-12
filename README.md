@@ -5,10 +5,9 @@ NeuroEase is a modern, interactive mental wellness web application built using N
 This project demonstrates scalable frontend architecture, state-driven UI updates, asynchronous behavior simulation, and immersive user experience enhancements.
 
 🔗 **Live Demo:**  
-https://sriyareddyneuroeasenew.vercel.app
-
+https://sriyareddykneuroeasenew.vercel.app
 🔗 **GitHub Repository:**  
-https://github.com/Sriyakreddy/SriyaNeuroEaseNew
+https://github.com/Sriyakreddy/sriyareddykneuroeasenew
 
 ---
 
